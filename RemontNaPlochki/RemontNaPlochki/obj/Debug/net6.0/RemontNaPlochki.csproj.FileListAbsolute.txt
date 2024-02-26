@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\RemontNaPlochki\RemontNaPlochki\bin\Debug\net6.0\RemontNaPlochki.exe
+C:\Users\Student\Desktop\RemontNaPlochki\RemontNaPlochki\bin\Debug\net6.0\RemontNaPlochki.deps.json
+C:\Users\Student\Desktop\RemontNaPlochki\RemontNaPlochki\bin\Debug\net6.0\RemontNaPlochki.runtimeconfig.json
+C:\Users\Student\Desktop\RemontNaPlochki\RemontNaPlochki\bin\Debug\net6.0\RemontNaPlochki.dll
+C:\Users\Student\Desktop\RemontNaPlochki\RemontNaPlochki\bin\Debug\net6.0\RemontNaPlochki.pdb
+C:\Users\Student\Desktop\RemontNaPlochki\RemontNaPlochki\obj\Debug\net6.0\RemontNaPlochki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\RemontNaPlochki\RemontNaPlochki\obj\Debug\net6.0\RemontNaPlochki.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\RemontNaPlochki\RemontNaPlochki\obj\Debug\net6.0\RemontNaPlochki.AssemblyInfo.cs
+C:\Users\Student\Desktop\RemontNaPlochki\RemontNaPlochki\obj\Debug\net6.0\RemontNaPlochki.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\RemontNaPlochki\RemontNaPlochki\obj\Debug\net6.0\RemontNaPlochki.dll
+C:\Users\Student\Desktop\RemontNaPlochki\RemontNaPlochki\obj\Debug\net6.0\refint\RemontNaPlochki.dll
+C:\Users\Student\Desktop\RemontNaPlochki\RemontNaPlochki\obj\Debug\net6.0\RemontNaPlochki.pdb
+C:\Users\Student\Desktop\RemontNaPlochki\RemontNaPlochki\obj\Debug\net6.0\RemontNaPlochki.genruntimeconfig.cache
+C:\Users\Student\Desktop\RemontNaPlochki\RemontNaPlochki\obj\Debug\net6.0\ref\RemontNaPlochki.dll
